@@ -8,3 +8,6 @@ Snake Game issue 1
      
      2) avoid hitting the walls or yourself
      
+
+Developer: L-ES
+
