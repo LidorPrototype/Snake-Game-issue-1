@@ -1,6 +1,6 @@
-Snake Game issue 1
+Snake Game Collection
 
-   A simple snake game
+   A simple snake games
    
    instructions:
    
