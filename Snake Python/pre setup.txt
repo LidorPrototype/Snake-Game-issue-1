@@ -1,0 +1,8 @@
+I didnt uploaded the venv folder b/c it's irelevent and too massive.
+in order for it to work you need to install via pip ( cmd or powershell ) the following:
+
+	- pygame
+	- sys
+	- random
+
+sometimes you will already have some of them install as part of the python version you installed
