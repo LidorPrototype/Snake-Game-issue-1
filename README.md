@@ -1,4 +1,4 @@
-Snake Game Collection
+<u>Snake Game Collection</u>
 
    A simple snake games
    
